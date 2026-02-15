@@ -1,1 +1,1 @@
-This is maven text file
+This is maven text file.
